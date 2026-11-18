@@ -1,0 +1,9 @@
+{
+  "appId": "app.mizan.budget",
+  "appName": "Mizan",
+  "webDir": "docs",
+  "backgroundColor": "#F2F8F4",
+  "android": {
+    "allowMixedContent": false
+  }
+}
